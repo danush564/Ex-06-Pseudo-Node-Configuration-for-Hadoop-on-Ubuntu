@@ -1,4 +1,4 @@
-# Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu
+# Exp 06 Pseudo Node Configuration for Hadoop on Ubuntu
 
 ## AIM
 
@@ -12,8 +12,15 @@ Single-Node Configuration
 
 1.	Create a dedicated user account for hadoop
 
+![image](https://github.com/danush564/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/98585166/7488a792-8b05-4eda-9543-1c69fae36c98)
+
 2.	Install java1.8 in folder /usr/local
+
+![image](https://github.com/danush564/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/98585166/ae856653-6f86-48dd-b70e-8b985c6f583f)
+
 3.	Install Hadoop
+
+![image](https://github.com/danush564/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/98585166/7ceaa735-c1bb-4e54-bffb-71dc23935967)
 
 4.	Set the hadoop environment variables: Include the following lines in the
 $HOME/.bashrc file
